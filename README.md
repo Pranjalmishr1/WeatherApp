@@ -9,3 +9,5 @@ The Weather App is a simple and interactive application that allows users to che
 ⚡ Fast and lightweight performance.
 🛠️ Technologies Used
 Frontend: HTML, CSS, JavaScript
+![image](https://github.com/user-attachments/assets/e32c7cfd-e1d1-4ddc-a29e-e5efa502ac98)
+
